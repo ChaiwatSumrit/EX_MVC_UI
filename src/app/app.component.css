@@ -1,0 +1,95 @@
+.center{margin:auto;}
+.field-label{font-weight: bold ; font-size:20px;}
+
+element.style {
+    text-shadow: 1px 1px 0 #444;
+}
+.header-row {
+	background-color: rgb(31, 31, 31);/*#322D0D;*/
+  font-weight: bold;
+  height: 50px;
+	font-size: 20px;
+	font-weight: bold;
+	vertical-align: middle !important;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding-top: 8px;
+}
+
+.btnAddReceiptTreatment {
+	padding: 0px;
+}
+hr {
+    display: block;
+    height: 2px;
+    border: 0;
+    border-top: 1px solid rgb(43, 43, 43);
+    margin: 1em 0;
+    padding: 0; 
+}
+.text-muted {
+    font-size: 20px;
+    color: #CCCCCC;
+    font-weight: lighter;
+}
+
+.btnView {
+	margin-bottom: 20px;
+	padding-right: 10px;
+	padding-left: 10px;
+	border-radius: 60px;
+	background-color: whit ;
+	border-width: 1px;
+	border-color: white;
+}
+/* inherit */
+
+.w3-ripple {
+    transition: opacity 0s;
+}
+.w3-btn, .w3-btn:link, .w3-btn:visited {color:#FFFFFF;background-color:#4CAF50}
+.w3-btn, .w3-button {
+    border: none;
+    display: inline-block;
+    padding: 8px 16px;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+    background-color: inherit;
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
+    font-weight: bold;
+}
+.w3-round, .w3-round-medium {
+    border-radius: 4px;
+}
+.w3-white, .w3-hover-white:hover {
+    color: #000!important;
+    background-color: #fff!important;
+}
+.w3-border {
+    border: 1px solid #ccc!important;
+}
+.w3-grey, .w3-hover-grey:hover, .w3-gray, .w3-hover-gray:hover {
+    color: #000!important;
+    background-color: #3d3d3d!important;
+}
+.w3-border-blue, .w3-hover-border-blue:hover {
+    border-color: #2196F3!important;
+}
+.w3-border-green, .w3-hover-border-green:hover {
+    border-color: #3d3d3d!important;
+}
+.w3-round-xlarge {
+    border-radius: 16px;
+}
+.w3-text-white, .w3-hover-text-white:hover {
+    color: #ffffff!important;
+}
+
+/* Form Style */
+.required-field {
+    color: rgb(255, 44, 44);
+}
